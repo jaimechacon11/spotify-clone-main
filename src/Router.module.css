@@ -1,0 +1,24 @@
+.router {
+	border-radius: 0.2rem;
+	background: url("https://i.pinimg.com/originals/88/74/21/887421593cdd1ec76363027ececa170f.jpg");
+	font-size: 2rem;
+	margin-left: 3rem;
+	margin-bottom: 10rem;
+}
+
+.cabecera{
+	background:url("https://png.pngtree.com/thumb_back/fw800/background/20190221/ourmid/pngtree-romantic-night-sky-banner-background-image_10237.jpg");
+}
+
+.bajo{
+	margin-top: 1rem;
+	height: 3rem;
+}
+
+.todo{
+	background:url("https://thumbs.dreamstime.com/b/la-música-colorea-canciones-y-frecuencias-de-los-instrumentos-de-las-demostraciones-del-fondo-42077121.jpg");
+	justify-content: center;
+	margin-top: 2rem;
+	padding: 1rem;
+	height: 40rem;
+}
