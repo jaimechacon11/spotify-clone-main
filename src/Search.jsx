@@ -27,7 +27,7 @@ const Search = ({ favoriteSongs, setFavoriteSongs ,lista,setlista}) => {
 		() => {
 			setlista(songs);
 		},
-		[songs]
+		[songs,setlista]
 	);
 
 	return (
